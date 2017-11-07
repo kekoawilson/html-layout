@@ -1,0 +1,36 @@
+.topBox {
+    height: 20vh;
+    width: auto;
+    background-color: rgb(58, 58, 58);
+}
+
+.leftBox {
+    height: 79vh;
+    width: 10vw;
+    float: left;
+    background-color: rgb(212, 212, 212);
+    margin: 0px;
+}
+
+.midTopBox {
+
+    background-color: white;
+}
+
+.midBottomBox {
+    height: 10vh;
+    width: 79%;
+    margin: 0px 117px;
+    background-color: black;
+    position: absolute;
+    bottom: 0;
+
+}
+
+.rightBox {
+    height: 79vh;
+    width: 10vw;
+    background-color: rgb(212, 212, 212);
+    float: right;
+    margin: 0px;
+}
